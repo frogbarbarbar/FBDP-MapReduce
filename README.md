@@ -34,9 +34,9 @@ mapreduce-lab/
 ├── README.md
 ├── src/
 │ └── main/java/com/example/
-│     ├── Task1SampleCount.java
+│     ├── Task1MerchantBehavior.java
 │     ├── Task2MerchantDistance.java
-│     ├── Task3CouponUsage.java
+│     ├── Task3CouponAnalysis.java
 │     └── Task4MerchantAggregate.java
 ├── ccf_offline_stage1_train.csv
 ├── ccf_online_stage1_train.csv
